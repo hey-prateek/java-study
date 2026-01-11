@@ -1,0 +1,5 @@
+This is a sample file to test parallel word counting.
+Parallel streams in Java help speed up CPU heavy tasks.
+We are counting the total number of words in this large file.
+Feel free to add more lines to increase the file size.
+The more text you add, the better you can test performance.
