@@ -1,7 +1,8 @@
 import java.util.*;
 
-public class wildcards {
+public class code3_wildcards {
 
+    //? takes any type
     static void print(List<?> lst) {
         for (int i = 0; i < lst.size(); i++) {
             System.out.println(lst.get(i));

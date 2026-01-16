@@ -3,28 +3,23 @@
 // Hint: You can use comparators to sort a list of objects. See the oracle docs to learn about comparators.
 
 // Input Format
-
 // The first line of input contains an integer , representing the total number of students. The next  lines contains a list of student information in the following structure:
-
 // ID Name CGPA
 // Constraints
-
 // The name contains only lowercase English letters. The  contains only integer numbers without leading zeros. The CGPA will contain, at most, 2 digits after the decimal point.
 
 // Output Format
-
 // After rearranging the students according to the above rules, print the first name of each student on a separate line.
 
 // Sample Input
-
 // 5
 // 33 Rumpa 3.68
 // 85 Ashis 3.85
 // 56 Samiha 3.75
 // 19 Samara 3.75
 // 22 Fahim 3.76
-// Sample Output
 
+// Sample Output
 // Ashis
 // Fahim
 // Samara
@@ -76,7 +71,7 @@ class arrange implements Comparator<Student>{
         }
     }
 }
-public class ComparatorExample
+public class code9_ComparatorExample
 {
 	public static void main(String[] args){
 		Scanner in = new Scanner(System.in);

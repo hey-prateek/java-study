@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.concurrent.ArrayBlockingQueue;
 
-public class queueExample {
+public class code7_queue {
     public static void main(String[] args) {
         // 1. Unbounded Queue (LinkedList)
         Queue<String> unboundedQueue = new LinkedList<>();

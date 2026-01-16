@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.concurrent.*;
 
-public class CopyOnWriteArrayListExample {
+public class code10_CopyOnWriteArrayListExample {
     public static void main(String[] args) {
         CopyOnWriteArrayList<String> arr = new CopyOnWriteArrayList<>(Arrays.asList("prateek", "tiwari", "nnrg"));
         Iterator<String> it = arr.iterator();

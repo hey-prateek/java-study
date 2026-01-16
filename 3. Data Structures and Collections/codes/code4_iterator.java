@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class IteratorExample {
+public class code4_iterator{
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("Apple");

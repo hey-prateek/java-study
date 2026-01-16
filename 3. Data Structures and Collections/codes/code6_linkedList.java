@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Iterator;
 
-public class linkedListExample {
+public class code6_linkedList {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<>();
 
